@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 -->
 
 <!--
 **koushub/koushub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi, I'm Koushubh - aka [Kay's Acoustics][website] 👋
+
+[![Website](![AppVeyor](https://img.shields.io/appveyor/build/Hello/k?label=Kay%27s%20Acoustics&logo=Youtube&style=for-the-badge))](https://sites.google.com/view/kaysacoustics/home)
