@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Koushubh - aka [Kay's Acoustics][website] 👋
 
-[![Website](![AppVeyor](https://img.shields.io/appveyor/build/Hello/k?label=Kay%27s%20Acoustics&logo=Youtube&style=for-the-badge))](https://sites.google.com/view/kaysacoustics/home)
+[![Website](https://img.shields.io/apm/l/Kay's%20Acoustics?color=blue&label=Kay%27s%20Acoustics&logo=youtube&style=for-the-badge)](https://sites.google.com/view/kaysacoustics/home)
