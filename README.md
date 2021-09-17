@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushub)](https://github.com/anuraghazra/github-readme-stats)
+[![Koushubh's GitHub stats](https://github-readme-stats.vercel.app/api?username=koushub)](https://github.com/anuraghazra/github-readme-stats)
 
 
 </div>
