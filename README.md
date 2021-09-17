@@ -13,11 +13,17 @@
 
 I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT 🏛. I'm currently learning Web Development 🕸️ and Data Structures.
 
+
+</div>
+
 ### More about me:
 
 - 💻 I'm making small projects in vanilla JavaScript.
 - 💻 &nbsp; And learning DSA by solving questions on Leetcode.
 - 🎹 I also Make Inspirational music. Here's my [YouTube Channel](https://youtu.be/L_ukNHjRlYs).
 
+### Learning to work with API's:
+
+- Infinity Scroll [Here](https://koushub.github.io/2-Js-dnirG/).
+- Motivational Quote Generator [Here](https://koushub.github.io/1-Js-dnirG/).
 <i>Happy Coding!</i> 😊
-</div>
