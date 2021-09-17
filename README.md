@@ -11,11 +11,13 @@
 
 <div align="center">
 
-You have finally discovered my Github profile. <br>
-Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/ABSphreak/ABSphreak/issues/new"><b>here</b></a><br>
-or <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
+I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT 🏛. I'm currently learning Web Development 🕸️ and Data Structures.
+
+### More about me:
+
+- 💻 I'm making small projects in vanilla JavaScript.
+- 💻 &nbsp; And learning DSA by solving questions on Leetcode.
+- 🎹 I also Make Inspirational music. Here's my [YouTube Channel](https://youtu.be/L_ukNHjRlYs)
 
 <i>Happy Coding!</i> 😊
-
 </div>
