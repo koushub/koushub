@@ -26,4 +26,7 @@ I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT
 
 - Infinity Scroll [Here](https://koushub.github.io/2-Js-dnirG/).
 - Motivational Quote Generator [Here](https://koushub.github.io/1-Js-dnirG/).
+
+<div align="center">
 <i>Happy Coding!</i> 😊
+<div>
