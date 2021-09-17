@@ -17,7 +17,7 @@ I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT
 
 - 💻 I'm making small projects in vanilla JavaScript.
 - 💻 &nbsp; And learning DSA by solving questions on Leetcode.
-- 🎹 I also Make Inspirational music. Here's my [YouTube Channel](https://youtu.be/L_ukNHjRlYs)
+- 🎹 I also Make Inspirational music. Here's my [YouTube Channel](https://youtu.be/L_ukNHjRlYs).
 
 <i>Happy Coding!</i> 😊
 </div>
