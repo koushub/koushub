@@ -18,15 +18,19 @@ I'm a 4th year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT
 
 ### More about me:
 
-- 💻 I'm making small projects in vanilla JavaScript.
+- 💻 I'm making projects in JavaScript & ReactJs.
 - 💻 &nbsp; And learning DSA by solving questions on Leetcode.
 - 🎹 I also Make Inspirational music. Here's my [YouTube Channel](https://youtu.be/L_ukNHjRlYs).
 
+### React based chatroom application:
+
+- Chat App [Link](https://chatapp-2d53d.web.app/).
+
 ### Learning to work with API's:
 
-- Infinity Scroll [Here](https://koushub.github.io/2-Js-dnirG/).
-- Motivational Quote Generator [Here](https://koushub.github.io/1-Js-dnirG/).
-- Tell me a joke [Here](https://koushub.github.io/3-Js-dnirG/)
+- Infinity Scroll [Link](https://koushub.github.io/2-Js-dnirG/).
+- Motivational Quote Generator [Link](https://koushub.github.io/1-Js-dnirG/).
+- Tell me a joke [Link](https://koushub.github.io/3-Js-dnirG/)
 
 <div align="center">
 <i>Happy Coding!</i> 😊
