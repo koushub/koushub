@@ -11,7 +11,7 @@
 
 <div align="center">
 
-I'm a 3rd year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT 🏛. I'm currently learning Web Development 🕸️ and Data Structures.
+I'm a4th year student pursuing Bachelors's in Computer Science 🎓 from SSIPMT 🏛. I'm currently learning Web Development 🕸️ and Data Structures.
 
 
 </div>
